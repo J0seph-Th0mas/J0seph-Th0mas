@@ -1,4 +1,4 @@
--  Joseph Thomas|B.tech in Electronics and Communication|IEEE RAS Chair FISAT SB
+-  Joseph Thomas | B.tech in Electronics and Communication | IEEE RAS Chair FISAT SB
 -  How to reach me:
                     Email: joseph.thomas8402@gmail.com
                     Phone: +919645115397
