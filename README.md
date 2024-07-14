@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Joseph Thomas
--  I’m interested in embedded systems and IOT
--  I’m currently doing my B.Tech in Electronics and Communication Engineering
+-  Joseph Thomas|B.tech in Electronics and Communication|IEEE RAS Chair FISAT SB
 -  How to reach me:
                     Email: joseph.thomas8402@gmail.com
                     Phone: +919645115397
